@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "question": "¿Qué es un correo phishing?",
+    "image": "./assets/images/querry01.png",
+    "options": [
+      "Un correo de publicidad segura",
+      "Un correo falso que busca robar tus datos",
+      "Una notificación del banco"
+    ],
+    "correctAnswer": 1,
+    "backgroundColor": "#f5c67d"
+  },
+  {
+    "id": 2,
+    "question": "¿Qué tipo de información se considera dato personal según la Ley 1581 de 2012?",
+    "image": "./assets/images/querry02.png",
+    "options": [
+      "Solo el número de cédula",
+      "Cualquier información que identifique o pueda identificar a una persona",
+      "Datos financieros únicamente"
+    ],
+    "correctAnswer": 1,
+    "backgroundColor": "#76c1f7"
+  },
+  {
+    "id": 3,
+    "question": "¿Qué entidad en Colombia vela por el cumplimiento de la Ley 1581 de 2012?",
+    "image": "./assets/images/querry03.png",
+    "options": [
+      "La Registraduría Nacional",
+      "La Superintendencia de Industria y Comercio (SIC)",
+      "El Ministerio de Justicia"
+    ],
+    "correctAnswer": 1,
+    "backgroundColor": "#72f97c"
+  },
+  {
+    "id": 4,
+    "question": "¿Qué debe hacer una empresa antes de recolectar tus datos personales?",
+    "image": "./assets/images/querry04.png",
+    "options": [
+      "Solicitar tu autorización previa e informarte sobre el uso de los datos",
+      "Guardar tus datos sin avisarte",
+      "Compartirlos con terceros sin restricción"
+    ],
+    "correctAnswer": 0,
+    "backgroundColor": "#f1ce59"
+  },
+  {
+    "id": 5,
+    "question": "¿Qué derecho tienes si tus datos personales están incorrectos?",
+    "image": "./assets/images/querry05.png",
+    "options": [
+      "Solicitar su corrección o actualización",
+      "Eliminar tus datos permanentemente",
+      "Renunciar a tus derechos de protección"
+    ],
+    "correctAnswer": 0,
+    "backgroundColor": "#f981a9"
+  },
+  {
+    "id": 6,
+    "question": "¿Qué es el principio de finalidad en la protección de datos?",
+    "image": "./assets/images/querry06.png",
+    "options": [
+      "Usar los datos solo para el fin autorizado por el titular",
+      "Usar los datos con fines comerciales siempre",
+      "Compartir los datos con empresas asociadas"
+    ],
+    "correctAnswer": 0,
+    "backgroundColor": "#ae7ef7"
+  },
+  {
+    "id": 7,
+    "question": "¿Qué acción NO está permitida según la Ley 1581 de 2012?",
+    "image": "./assets/images/querry07.png",
+    "options": [
+      "Revisar tus propios datos personales",
+      "Compartir datos sin autorización del titular",
+      "Actualizar tu información en una base de datos"
+    ],
+    "correctAnswer": 1,
+    "backgroundColor": "#ec99f7"
+  },
+  {
+    "id": 8,
+    "question": "¿Qué debe hacer una persona si recibe un correo sospechoso que pide datos personales?",
+    "image": "./assets/images/querry08.png",
+    "options": [
+      "Responder con precaución",
+      "Ignorarlo o reportarlo a la entidad correspondiente",
+      "Enviar los datos para verificar la solicitud"
+    ],
+    "correctAnswer": 1,
+    "backgroundColor": "#7febf9"
+  },
+  {
+    "id": 9,
+    "question": "¿Qué principio garantiza que los datos recolectados sean veraces y actualizados?",
+    "image": "./assets/images/querry09.png",
+    "options": [
+      "Principio de seguridad",
+      "Principio de veracidad o calidad",
+      "Principio de confidencialidad"
+    ],
+    "correctAnswer": 1,
+    "backgroundColor": "#f7cb84"
+  },
+  {
+    "id": 10,
+    "question": "¿Cuál es el objetivo principal de la Ley 1581 de 2012?",
+    "image": "./assets/images/querry10.png",
+    "options": [
+      "Regular la recolección, almacenamiento y uso de datos personales",
+      "Controlar el acceso a redes sociales",
+      "Proteger la propiedad intelectual"
+    ],
+    "correctAnswer": 0,
+    "backgroundColor": "#9eabf9"
+  }
+]

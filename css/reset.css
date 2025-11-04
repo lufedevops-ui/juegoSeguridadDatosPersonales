@@ -1,0 +1,65 @@
+/* D:\enviromentDev\Proyects\html\5\Data\src\css\reset.css */
+/* Reinicio de estilos básicos para consistencia entre navegadores */
+
+/* Elimina márgenes, paddings y bordes predeterminados */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Configura tipografía y suavizado */
+html {
+    font-size: 16px;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+/* Define una tipografía base */
+body {
+    font-family: 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    line-height: 1.5;
+    background-color: #f8f9fc;
+    color: #222;
+}
+
+/* Quita estilos predeterminados de enlaces */
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+/* Quita estilos predefinidos de listas */
+ul,
+ol {
+    list-style: none;
+}
+
+/* Botones sin estilos del sistema */
+button {
+    background: none;
+    border: none;
+    font: inherit;
+    cursor: pointer;
+}
+
+/* Imágenes adaptables */
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+}
+
+/* Inputs y selects consistentes */
+input,
+select,
+textarea {
+    font: inherit;
+}
+
+/* Elimina estilos de tablas */
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
